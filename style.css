@@ -4,6 +4,13 @@
   padding: 0;
 }
 
+.body{
+  font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+/* header section */
+
 .main-container {
   display: flex;
   height: 100vh;
@@ -42,6 +49,10 @@ background: #E55473;
 color: white;
 border: none;
 
+
+ /* bonus section */
+
+
 }
 .feture-title{
   text-align: center;
@@ -66,13 +77,6 @@ font-weight: 400;
 line-height: 30px;
 align-items: center;
 }
-/* .bonus-section{
-  width: 294px;
-height: 370px;
-border-radius: 300px 300px 0px 0px;
-background: rgba(167, 33, 98, 0.15);
-
-} */
 .img-1{
   width: 294px;
 height: 370px;
@@ -110,11 +114,102 @@ padding-top: 20px;
 }
 .bonus-section{
   display: flex;
-  justify-content: space-around;
+  padding-left:200px;
+  gap: 15px;
 }
 .bns-title{
   display: flex;
-  justify-content: space-between;
-  margin: 20px 20px 20px;
-  padding: 30px 30px 30px;
+  padding-left: 200px;
+  gap: 170px;
+  margin: 10px;
+  
+}
+
+/* Hot deal banner style */
+
+.hot-deal-main-section{
+  display: flex;
+  background-color:rgba(229, 84, 115, 0.05);
+  margin-top: 80px;
+  align-items: center;
+  justify-content: space-around;
+ 
+
+}
+.hot-deal-title{
+  color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+
+}
+.hot-deal-off{
+  color:#E55473 ;
+}
+.hot-deal-text{
+  padding-left: 120px;
+}
+
+.btn2{
+  
+  padding: 16px 34px;
+  border-radius: 8px;
+background: #E55473;
+color: rgb(255, 255, 255);
+border: none;
+}
+.hot-deal-btn{
+display: flex;
+justify-content: center;
+}
+.hot-deal-description{
+  color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+}
+.hot-deal-img{
+  
+padding-right: 67px;
+}
+.hot-deal-img-edit{
+  width: 310px;
+  height: 400px;
+}
+
+/* instagram-section */
+
+.Instagram-info{
+  text-align: center;
+}
+
+.insta-text{
+  color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.insta-description{
+  color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+}
+.Instagram-section{
+  margin-top: 80px;
+}
+.instagram-all-pic{
+  display: flex;
+  gap: 8px;
+  padding-left: 180px;
+}
+.insta-1{
+  width: 242px;
+height: 300px;
+
 }
