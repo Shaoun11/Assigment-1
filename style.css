@@ -277,7 +277,7 @@
 }
 .about-you{
   text-align: center;
-  background-image: url(./photo-1496661415325-ef852f9e8e7c.avif),linear-gradient(#886c6c00,#7f9713);
+  background-image: url(./photo-1496661415325-ef852f9e8e7c\ \(1\)-01\ \(1\).jpeg),linear-gradient(#886c6c00,#843224);
   background-repeat: no-repeat;
   background-blend-mode: darken;
   width: 260;
@@ -287,10 +287,10 @@
 }
 .about2{
   padding-top: 90px;
-  color: white;
+  color: rgb(18, 17, 17);
 }
 .about-dec{
-  color: rgba(18, 0, 0, 0.9) ;
+  color: rgba(251, 251, 251, 0.9) ;
   font-size: 18px;
   font-weight: 400;
   line-height: 20px;
@@ -299,5 +299,5 @@
   font-family: Lato;
   font-size: 34px;
   font-weight: 800;
-  color: rgb(35, 35, 35);
+  color: rgb(255, 255, 255);
 }
