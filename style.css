@@ -43,6 +43,7 @@
   background: #e55473;
   color: white;
   border: none;
+  cursor: pointer;
 
   /* bonus section */
 }
@@ -140,6 +141,7 @@
   background: #e55473;
   color: rgb(255, 255, 255);
   border: none;
+  cursor: pointer;
 }
 .hot-deal-btn {
   display: flex;
@@ -222,6 +224,7 @@
   display: flex;
   justify-content: center;
   gap: 15px;
+  cursor: pointer;
 }
 .email {
   padding: 14px 150px;
@@ -244,7 +247,7 @@
   text-align: center;
   background-color: #111010;
   width: 1340px;
-  height: 200px;
+  height: 170px;
   padding-top: 40PX;
 }
 .span{
