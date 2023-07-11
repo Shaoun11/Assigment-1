@@ -247,7 +247,7 @@
 .footer-botom {
   text-align: center;
   background-color: #111010;
-  width: 1340px;
+  width: 100%;
   height: 170px;
   padding-top: 40px;
 }
@@ -277,21 +277,21 @@
 }
 .about-you{
   text-align: center;
-  background-image: url(./photo-1496661415325-ef852f9e8e7c\ \(1\)-01\ \(1\).jpeg),linear-gradient(#886c6c00,#843224);
+  background-image: url(./flower-3175428_1280.jpg),linear-gradient(#886c6c00,#843224);
   background-repeat: no-repeat;
   background-blend-mode: darken;
-  width: 260;
-  height: 350px;
-  margin: 200px;
-  margin-right: 260px;
+  background-size: cover;
+  width: 100%;
+  padding-bottom: 70px;
+  margin-bottom: 50px;
 }
 .about2{
   padding-top: 90px;
   color: rgb(18, 17, 17);
 }
 .about-dec{
-  color: rgba(251, 251, 251, 0.9) ;
-  font-size: 18px;
+  color: rgba(0, 0, 0, 0.9) ;
+  font-size: 20px;
   font-weight: 400;
   line-height: 20px;
 }
@@ -299,5 +299,5 @@
   font-family: Lato;
   font-size: 34px;
   font-weight: 800;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
