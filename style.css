@@ -21,6 +21,7 @@
 .banner-img {
   width: 490px;
   height: 610px;
+  margin-bottom: -20px;
 }
 .header-title {
   color: #272727;
@@ -276,9 +277,9 @@
 }
 .about-you{
   text-align: center;
-  background-image: url(./photo-1496661415325-ef852f9e8e7c.avif),linear-gradient(#0000,#000,#0000);
+  background-image: url(./photo-1496661415325-ef852f9e8e7c.avif),linear-gradient(#ff959500,#000);
   background-repeat: no-repeat;
-  
+  background-blend-mode: overlay;
   width: 270;
   height: 390px;
   margin: 200px;
