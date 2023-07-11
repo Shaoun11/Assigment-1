@@ -1,12 +1,11 @@
-
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-.body{
-  font-family: 'Lato', sans-serif;
-font-family: 'Open Sans', sans-serif;
+.body {
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* header section */
@@ -23,7 +22,6 @@ font-family: 'Open Sans', sans-serif;
   width: 500px;
   height: 600px;
   padding-bottom: 0;
-  
 }
 .header-title {
   color: #272727;
@@ -31,229 +29,246 @@ font-family: 'Open Sans', sans-serif;
   font-size: 60px;
 
   font-weight: 800;
-  
-
 }
-.header-description{
-color: rgba(39, 39, 39, 0.60);
-font-size: 17px;
-font-weight: 400;
-line-height: 30px;
-gap: 30px;
+.header-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  gap: 30px;
 }
-.btn{
-  
+.btn {
   padding: 14px 34px;
   border-radius: 8px;
-background: #E55473;
-color: white;
-border: none;
+  background: #e55473;
+  color: white;
+  border: none;
 
-
- /* bonus section */
-
-
+  /* bonus section */
 }
-.feture-title{
+.feture-title {
   text-align: center;
 }
-.feture-t{
+.feture-t {
   color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-weight: 800;
-
-
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
 }
-.feture-flower{
+.feture-flower {
   margin-top: 110px;
 }
-.feture-description{
-  color: rgba(39, 39, 39, 0.60);
-font-family: Lato;
-font-size: 18px;
-font-weight: 400;
-line-height: 30px;
-align-items: center;
+.feture-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  align-items: center;
 }
-.img-1{
+.img-1 {
   width: 294px;
-height: 370px;
-border-radius: 300px 300px 0px 0px;
-background: rgba(167, 33, 98, 0.15);
+  height: 370px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
 }
-.img-2{
+.img-2 {
   width: 294px;
-height: 370px;
-border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
+  height: 370px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
 }
-.img-3{
+.img-3 {
   width: 294px;
-height: 370px;
-border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
+  height: 370px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
 }
 
-
-.imag-one{
+.imag-one {
   width: 250px;
   height: 350px;
- 
 }
-.img-t1{
-color: #272727;
+.img-t1 {
+  color: #272727;
 
-font-family: Lato;
-font-size: 24px;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-padding-top: 20px;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+  padding-top: 20px;
 }
-.bonus-section{
+.bonus-section {
   display: flex;
-  padding-left:200px;
+  padding-left: 200px;
   gap: 15px;
 }
-.bns-title{
+.bns-title {
   display: flex;
   padding-left: 200px;
   gap: 170px;
   margin: 10px;
-  
 }
 
 /* Hot deal banner style */
 
-.hot-deal-main-section{
+.hot-deal-main-section {
   display: flex;
-  background-color:rgba(229, 84, 115, 0.05);
+  background-color: rgba(229, 84, 115, 0.05);
   margin-top: 80px;
   align-items: center;
   justify-content: space-around;
- 
-
 }
-.hot-deal-title{
+.hot-deal-title {
   color: #272727;
-font-family: Lato;
-font-size: 40px;
-font-weight: 800;
-
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
 }
-.hot-deal-off{
-  color:#E55473 ;
+.hot-deal-off {
+  color: #e55473;
 }
-.hot-deal-text{
+.hot-deal-text {
   padding-left: 120px;
 }
 
-.btn2{
-  
+.btn2 {
   padding: 16px 34px;
   border-radius: 8px;
-background: #E55473;
-color: rgb(255, 255, 255);
-border: none;
+  background: #e55473;
+  color: rgb(255, 255, 255);
+  border: none;
 }
-.hot-deal-btn{
-display: flex;
-justify-content: center;
+.hot-deal-btn {
+  display: flex;
+  justify-content: center;
 }
-.hot-deal-description{
-  color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 14px;
-font-weight: 400;
-line-height: 20px;
+.hot-deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
 }
-.hot-deal-img{
-  
-padding-right: 67px;
+.hot-deal-img {
+  padding-right: 67px;
 }
-.hot-deal-img-edit{
+.hot-deal-img-edit {
   width: 310px;
   height: 400px;
 }
 
 /* instagram-section */
 
-.Instagram-info{
+.Instagram-info {
   text-align: center;
 }
 
-.insta-text{
+.insta-text {
   color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-weight: 800;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
 }
-.insta-description{
-  color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 14px;
-font-weight: 400;
-line-height: 20px;
+.insta-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
 }
-.Instagram-section{
+.Instagram-section {
   margin-top: 80px;
 }
-.instagram-all-pic{
+.instagram-all-pic {
   display: flex;
   gap: 8px;
   padding-left: 180px;
 }
-.insta-1{
+.insta-1 {
   width: 242px;
-height: 300px;
-
+  height: 300px;
 }
 
 /* last-deal-section */
 
-.last-deal-text{
+.last-deal-text {
   text-align: center;
   justify-content: center;
-  margin-top: -340px;
+  padding-bottom: 30px;
+  padding-top: 20px;
 }
-.deal-text{
+.deal-text {
   color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-weight: 800;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
 }
-.deal-deascription{
-  color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-weight: 400;
-line-height: 30px;
+.deal-deascription {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
 }
-.form{
+.form {
   display: flex;
   justify-content: center;
   gap: 15px;
-
 }
-.background-last-deal{
-  margin-top: 40px;
-
-}
-.latest-bg{
-  width: 1015px;
-height: 405px;
-margin: 70px 70px 40px 170px;
-
-}
-.email{
+.email {
   padding: 14px 150px;
   border-radius: 6px;
   border: none;
+}
+
+.position {
+  background-image: url(Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  width: 250;
+  height: 370px;
+  margin: 180px;
+}
+.last-deal-position {
+  margin-left: 80px;
+}
+
+.footer-botom {
+  text-align: center;
+  background-color: #111010;
+  width: 1340px;
+  height: 200px;
+  padding-top: 40PX;
+}
+.span{
+  color: #e55473;
+
+}
+.footer-title{
+font-family: Lato;
+font-size: 28px;
+font-weight: 800;
+color:white;
+}
+.info{
+  color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer-des{
+  color: rgba(255, 255, 255, 0.90);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
 }
