@@ -290,14 +290,15 @@
   color: rgb(18, 17, 17);
 }
 .about-dec{
-  color: rgba(0, 0, 0, 0.9) ;
+  color: rgba(246, 229, 229, 0.9) ;
   font-size: 20px;
-  font-weight: 400;
-  line-height: 20px;
+  font-weight: 500;
+  line-height: 24px;
+ 
 }
 .about-text{
   font-family: Lato;
   font-size: 34px;
-  font-weight: 800;
-  color: rgb(0, 0, 0);
+  font-weight: 900;
+  color: rgb(255, 251, 251);
 }
