@@ -277,26 +277,27 @@
 }
 .about-you{
   text-align: center;
-  background-image: url(./photo-1496661415325-ef852f9e8e7c.avif),linear-gradient(#ff959500,#000);
+  background-image: url(./photo-1496661415325-ef852f9e8e7c.avif),linear-gradient(#886c6c00,#7f9713);
   background-repeat: no-repeat;
-  background-blend-mode: overlay;
-  width: 270;
-  height: 390px;
+  background-blend-mode: darken;
+  width: 260;
+  height: 350px;
   margin: 200px;
+  margin-right: 260px;
 }
 .about2{
   padding-top: 90px;
   color: white;
 }
 .about-dec{
-  color: rgba(255, 255, 255, 0.9) ;
-  font-size: 15px;
+  color: rgba(18, 0, 0, 0.9) ;
+  font-size: 18px;
   font-weight: 400;
   line-height: 20px;
 }
 .about-text{
   font-family: Lato;
-  font-size: 28px;
+  font-size: 34px;
   font-weight: 800;
-  color: white;
+  color: rgb(35, 35, 35);
 }
