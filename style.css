@@ -277,7 +277,7 @@
 }
 .about-you{
   text-align: center;
-  background-image: url(./flower-3175428_1280.jpg),linear-gradient(#886c6c00,#843224);
+  background-image: url(./flower-3175428_1280.jpg),linear-gradient(#302f2f00,#555756);
   background-repeat: no-repeat;
   background-blend-mode: darken;
   background-size: cover;
@@ -291,7 +291,7 @@
   color: rgb(18, 17, 17);
 }
 .about-dec{
-  color: rgba(246, 229, 229, 0.9) ;
+  color: rgba(255, 255, 255, 0.9) ;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
@@ -301,5 +301,5 @@
   font-family: Lato;
   font-size: 34px;
   font-weight: 900;
-  color: rgb(255, 251, 251);
+  color: rgb(255, 255, 255);
 }
