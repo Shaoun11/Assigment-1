@@ -21,8 +21,6 @@
 .banner-img {
   width: 490px;
   height: 610px;
-  width: 100%;
-  margin-bottom: -20px;
 }
 .header-title {
   color: #272727;
@@ -275,4 +273,29 @@
   font-size: 15px;
   font-weight: 400;
   line-height: 20px;
+}
+.about-you{
+  text-align: center;
+  background-image: url(./photo-1496661415325-ef852f9e8e7c.avif),linear-gradient(#0000,#000,#0000);
+  background-repeat: no-repeat;
+  
+  width: 270;
+  height: 390px;
+  margin: 200px;
+}
+.about2{
+  padding-top: 90px;
+  color: white;
+}
+.about-dec{
+  color: rgba(255, 255, 255, 0.9) ;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.about-text{
+  font-family: Lato;
+  font-size: 28px;
+  font-weight: 800;
+  color: white;
 }
